@@ -25,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\tdd-oop-interface-dependency-injection.CSharp.Main\tdd-oop-interface-dependency-injection.CSharp.Main.csproj" />
+    <ProjectReference Include="..\tdd-oop-interface-dependency-injection.CSharp.Main\tdd_oop_interface_dependency_injection.CSharp.Main.csproj" />
   </ItemGroup>
 
 </Project>
